@@ -29,8 +29,8 @@ I am a passionate **Web Programmer** currently honing my craft at **AMIKOM Unive
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=agashesh&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agashesh&layout=compact&langs_count=7&theme=visual_studio_dark" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agashesh&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" width="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agashesh&layout=compact&langs_count=7&theme=visual_studio_dark" width="180" />
 </p>
 
 ---

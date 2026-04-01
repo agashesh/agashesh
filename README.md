@@ -30,8 +30,11 @@ I am a passionate **Web Programmer** currently honing my craft at **AMIKOM Unive
 ### 📊 GitHub Stats
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=agashesh&show_icons=true&theme=visual_studio_dark&include_all_commits=true&count_private=true" />
+</p>
+<p align="right">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agashesh&layout=compact&langs_count=7&theme=visual_studio_dark" />
 </p>
+
 
 ---
 

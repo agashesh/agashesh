@@ -1,26 +1,5 @@
 
 
-### 👨‍💻 About Me
-I am a passionate **Web Programmer** currently honing my craft at **AMIKOM University Yogyakarta**. I bridge the gap between complex logic and intuitive user experiences, turning caffeine into clean, scalable code.
-
-* 🔭 **Currently working on:** Enhancing my full-stack capabilities and exploring modern frameworks.
-* 🎓 **Education:** Information Technology at AMIKOM University.
-* ⚡ **Fun Fact:** When I'm not debugging, I'm likely exploring the vibrant tech scene here in Jogja.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Frontend | Backend | Tools & Others |
-| :--- | :--- | :--- |
-| HTML5 / CSS3 / JS | Node.js / PHP | Git & GitHub |
-| React / Next.js | MySQL / MongoDB | VS Code |
-| Tailwind CSS | REST APIs | Figma |
-
----
-
-### 📊 My Coding Journey
-
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=agashesh&show_icons=true&theme=visual_studio_dark" alt="Agashesh Stats" height="170" />
   
@@ -30,13 +9,6 @@ I am a passionate **Web Programmer** currently honing my craft at **AMIKOM Unive
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agashesh&theme=visual_studio_dark" alt="GitHub Streak" height="170" />
 </p>
-
----
-
-### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-* **Email:** [putra@example.com](mailto:putra@example.com)
 
 ---
 <p align="center">

@@ -1,12 +1,4 @@
-# 🚀 Hello World, I'm Putra!
 
-<p align="center">
-  <img src="https://view-counter.api.fnkr.net/icons/v1/group/personal/repo/github-readme/count.svg" alt="Views">
-  <img src="https://img.shields.io/badge/Focus-Web%20Development-blueviolet?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Location-Yogyakarta%2C%20ID-orange?style=flat-square" alt="Location">
-</p>
-
----
 
 ### 👨‍💻 About Me
 I am a passionate **Web Programmer** currently honing my craft at **AMIKOM University Yogyakarta**. I bridge the gap between complex logic and intuitive user experiences, turning caffeine into clean, scalable code.
